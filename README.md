@@ -5,6 +5,11 @@ Go through the code and try for various test cases provided.
 
 
 
+Project Video link:https://drive.google.com/drive/folders/1rGMfwONDr732XV78Pa0RrVdJgebGa8jC?usp=sharing
+
+
+
+
 
 Companies manufacture, process, and sell steel pipes. Inventory management of pipes in an outside yard has long been a pain point for companies because of the labor-intensive, visual dependency required to check the number of pipes. A typical case of specifications of pipes and the environment of pipe yard are: 1.66 - 48 inch in diameter, 30-60 feet long, Stacked in 3 - 20 layers depending on Outside Diameter size (but not higher than approx. 10Feet). More than 1 thousand pipes in 1 acre. A tag and/or cap may be attached to the end of the tube. In the case of large diameter pipes, the pipe stacks are often several hundred meters long and the distance between the stacks is often so narrow that it can be difficult to take a picture from the front.
 
