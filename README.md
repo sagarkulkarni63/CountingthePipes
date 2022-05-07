@@ -1,11 +1,4 @@
-# Counting The Pipes
-Go through the code and try for various test cases provided.
-
-
-
-
-
-Project Video link:https://drive.google.com/drive/folders/1rGMfwONDr732XV78Pa0RrVdJgebGa8jC?usp=sharing
+# Tallying The Pipes
 
 
 
